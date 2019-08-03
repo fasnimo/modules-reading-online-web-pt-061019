@@ -1,3 +1,3 @@
-modual Dance
+module Dance
 
 end
